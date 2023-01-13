@@ -24,5 +24,11 @@
             "description": "description 4",
             "category": "Love"
         }
-    ]
+    ],
+    "dashboard":{
+        "post":5,
+        "likes":100,
+        "followers":20,
+        "following":50
+    }
 }

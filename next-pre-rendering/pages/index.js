@@ -9,6 +9,8 @@ function Home() {
       Posts</Link>
       <Link href="/news">
       News</Link>
+      <Link href="/dashboard">
+      Dashboard</Link>
     </>
   );
 }
