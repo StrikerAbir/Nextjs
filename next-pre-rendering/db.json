@@ -30,5 +30,42 @@
         "likes":100,
         "followers":20,
         "following":50
-    }
+    },
+    "events":[
+        {
+            "id":1,
+            "title": "Event 1",
+            "description": "description 1",
+            "category": "sports",
+            "date": "April 14"
+        },
+        {
+            "id":2,
+            "title": "Event 2",
+            "description": "description 2",
+            "category": "sports",
+            "date": "April 24"
+        },
+        {
+            "id":3,
+            "title": "Event 3",
+            "description": "description 3",
+            "category": "Love",
+            "date": "April 34"
+        },
+        {
+            "id":4,
+            "title": "Event 4",
+            "description": "description 4",
+            "category": "sports",
+            "date": "April 44"
+        },
+        {
+            "id":5,
+            "title": "Event 5",
+            "description": "description 5",
+            "category": "Love",
+            "date": "April 54"
+        }
+    ]
 }
